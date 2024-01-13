@@ -7,7 +7,7 @@ int hcf_of(int a, int b) {
         return a;  // When b becomes 0, a is the HCF.
     } else {
         return hcf_of(b, a % b);  // Recursive call with (b, a % b).
-    }
+    } 
 }
 
 int main() {
