@@ -11,7 +11,7 @@ int main()
     int count = 1;  // Initialize the count of the majority candidate.
 
     for (int i = 1; i < SIZE; ++i) 
-    {
+    { 
         if (arr[i] == candidate) 
         {
             ++count;  // Increment the count if the current element matches the candidate.
