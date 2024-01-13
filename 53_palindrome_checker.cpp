@@ -5,7 +5,7 @@
 //example : "madam" and "12321".
 #include <iostream> 
 using namespace std;
-
+ 
 int main()
 {
     string a; //declaring a variable 'a' to store the string input by the user
