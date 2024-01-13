@@ -1,7 +1,7 @@
 // Calculate the sum of digits of a number using a do-while loop.
 #include <iostream>
 #include <string>
-using namespace std;
+using namespace std; 
 
 int main()
 {
