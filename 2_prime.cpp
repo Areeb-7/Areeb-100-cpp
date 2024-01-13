@@ -8,7 +8,7 @@ int main()
   {
     
     int n; //declaring a variable 'n' of data type integer
-
+ 
     cout << endl<< "Enter the number you want to check for (enter 0 to exit): "; //asking user for the input
     cin >> n; //initializing 'n' with the value by the user
 
