@@ -3,7 +3,7 @@
 // what is a palindrome?
 //where the reversed version of a word or number is as same as the original one.
 //example : "madam" and "12321".
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 int main()
